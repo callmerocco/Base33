@@ -1,2 +1,6 @@
-# Base33
-Base33 is a binary data encoder, based on Base32/64.
+> [!Warning]
+>
+> ## Not yet in use.
+>
+> This project is currently in **DEVELOPMENT**, and is **NOT** stable. Please consider using Base64/32 until we have completed
+> a stable release.
