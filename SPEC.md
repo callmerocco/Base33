@@ -1,3 +1,1 @@
-# Base33 (rewrite)
-
 Alphabet: `0123456789ABCDEFGHJKMNPQRSTUVWXYZ`
